@@ -63,18 +63,13 @@ background-color: #2e2f42;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #fff;
 }
 
 .hero-button {
 
     cursor: pointer;
-    border-radius: 4px;
     font-family: "Roboto", sans-serif;
-        width: 169px;
-        height: 56px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4d5ae5;
         font-weight: 500;
         font-size: 16px;
@@ -121,7 +116,6 @@ background-color: #2e2f42;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        text-align: center;
         color: #2e2f42;
 }
 
@@ -132,8 +126,6 @@ background-color: #2e2f42;
 }
 
 .team-list-avatar {
-    width: 264px;
-        height: 260px;
 }
 
 .team-list-title {
@@ -141,7 +133,6 @@ background-color: #2e2f42;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2e2f42;
 }
 
@@ -150,7 +141,6 @@ background-color: #2e2f42;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #434455;
 }
 
@@ -162,7 +152,6 @@ background-color: #2e2f42;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        text-align: center;
         color: #2e2f42;
 }
 
@@ -170,10 +159,7 @@ background-color: #2e2f42;
 
 .portfolio-list-item {}
 
-.portfolio-list-picture {
-    width: 360px;
-        height: 300px;
-}
+.portfolio-list-picture {}
 
 .portfolio-list-name {
         font-weight: 500;
